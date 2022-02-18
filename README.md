@@ -20,3 +20,8 @@ These are the project ideas that came to my mind. I think I can do this with Rus
 - [ ] Visitor
 - [ ] Random sentence generator
 
+## General
+
+- [ ] RabbitMQ Example
+- [ ] Redis Example
+- [ ] Elasticsearch Example
