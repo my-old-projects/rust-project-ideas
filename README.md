@@ -12,6 +12,7 @@ These are the project ideas that came to my mind. I think I can do this with Rus
 - [ ] Create, delete text file
 - [ ] Mock API parser
 - [ ] RSS Parser
+- [ ] Terminal based note taking app
 
 ## Web
 
